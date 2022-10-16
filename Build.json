@@ -1,0 +1,14 @@
+{
+"companyName": "S. O. Games",
+"productName": "Color Filler",
+"dataUrl": "Color Filler Build.data.unityweb",
+"wasmCodeUrl": "Color Filler Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Color Filler Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Color Filler Build.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
